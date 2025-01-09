@@ -1,1 +1,1 @@
-# ogrenci-yerlestirme-sistemi
+MS Sql ile öğrenci yerleştirme sistemi uygulaması
